@@ -1,7 +1,7 @@
 ## BACKEND JAVA (SPRING BOOT)
 ## FRONTEND ANGULAR
 
-### Construir imagen a partir de un docker file
+### Construir imagen a partir de un dockerfile
 `docker build -t billingapp:0.0.1 --build-arg JAR_FILE=target/*.jar .`
 
 ## Iniciar contenedor
