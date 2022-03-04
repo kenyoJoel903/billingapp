@@ -1,5 +1,5 @@
-## BACKEND JAVA
-## FRONTEND ANGULA
+## BACKEND JAVA (SPRING BOOT)
+## FRONTEND ANGULAR
 
 
 ## DOCKERFILE
@@ -10,4 +10,4 @@
 `docker run -dti -p 80:80 -p 8081:8081 --name billingapp billingapp:0.0.1`
 
 ### Frontend: http://localhost
-###B ackend: http://localhost:8081/swagger-ui/index.html
+### Backend: http://localhost:8081/swagger-ui/index.html
